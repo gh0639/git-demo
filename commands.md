@@ -77,5 +77,7 @@
   `clear`
 
 - **View command history**:
+
+- history
   
   git restore
